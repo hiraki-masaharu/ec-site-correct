@@ -79,6 +79,7 @@ Spree::Backend::Config.configure do |config|
 end
 
 Spree::Api::Config.configure do |config|
+  config.use_static_preferences!
   config.requires_authentication = true
 end
 
