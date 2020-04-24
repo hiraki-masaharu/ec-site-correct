@@ -15,20 +15,6 @@ Things you may want to cover:
 
 * OS Linux
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
 * ruby on rails 環境構築　https://railsgirls.jp/install
 
 * プロジェクトのクローン
