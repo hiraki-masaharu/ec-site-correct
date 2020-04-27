@@ -15,7 +15,7 @@ Things you may want to cover:
 
 * OS Linux for ubuntu
 
-ruby on rails 環境構築多分いらないので飛ばしていいと思います。が一応　https://railsgirls.jp/install
+ruby on rails 環境構築多分いらないので飛ばしていいと思います。が一応載せておきます　https://railsgirls.jp/install
 
 * プロジェクトのクローン
 
