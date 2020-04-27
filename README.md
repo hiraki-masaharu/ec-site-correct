@@ -25,7 +25,8 @@ Things you may want to cover:
 
 * $ gem install bundler
 
-* $ sudo aptitude install libpq-dev
+　　　　　　＃　　　$ sudo aptitude install libpq-dev
+      　　　＃　　　　("pg"インストール時にエラーが出た場合)
 
 * $ bundle install
 
