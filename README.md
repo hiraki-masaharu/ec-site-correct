@@ -13,7 +13,7 @@ Things you may want to cover:
 
 5.2.3
 
-* OS Linux
+* OS Linux for ubuntu
 
 * ruby on rails 環境構築　https://railsgirls.jp/install
 
@@ -24,6 +24,8 @@ Things you may want to cover:
 * ライブラリーのインストール
 
 * $ gem install bundler
+
+* $ sudo aptitude install libpq-dev
 
 * $ bundle install
 
