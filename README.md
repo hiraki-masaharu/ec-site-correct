@@ -33,6 +33,7 @@ Things you may want to cover:
 * データベース作成
 
 * $ bundle exec rails g spree:install
+　　（ここでログインできる管理者のメールを設定できる場合はしてください。できなかった場合は下記の管理者権限設定より。）
 
 * $ bundle exec rails g solidus:auth:install
 
