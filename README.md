@@ -15,11 +15,31 @@ Things you may want to cover:
 
 * OS Linux for ubuntu
 
-* ruby on rails 環境構築　https://railsgirls.jp/install
+ruby on rails 環境構築多分いらないので飛ばしていいと思います。が一応　https://railsgirls.jp/install
 
 * プロジェクトのクローン
 
 * $ git clone https://github/hiraki-masaharu/ec-site-correct.git
+
+* $ bundle exec rake db:migrate
+
+* $ bundle exec rails s
+
+これでサーバーを立ち上げたのでブラウザから以下を実行
+
+* https://localhost:3000
+
+管理者権限を設定するには以下を参照
+
+* 管理者権限
+
+* $ bundle exec rails spree_auth:admin:create
+
+* 上記で設定したID、PASSで下記URLでログイン
+
+* https://localhost:3000/admin
+
+ここまででエラーが出た場合は以下を参照
 
 * ライブラリーのインストール
 
@@ -43,13 +63,7 @@ Things you may want to cover:
 
 * https://localhost:3000
 
-* 管理者権限
 
-* $ bundle exec rails spree_auth:admin:create
-
-* 上記で設定したID、PASSで下記URLでログイン
-
-* https://localhost:3000/admin
 
 
 * ...
